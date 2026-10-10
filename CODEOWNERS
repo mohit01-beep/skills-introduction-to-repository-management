@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mohit01-beep
+/src/backend/database.py      @mohit01-beep
+/src/backend/routers/auth.py  @mohit01-beep
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mohit01-beep
